@@ -18,9 +18,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AMB1572&theme=tokyonight&hide_border=true&locale=en" alt="Contribution streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMB1572&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
 
 <!--**AMB1572/AMB1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
