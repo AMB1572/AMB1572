@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Álvaro José Mata Báez 👋</h1>
-<p align="center">Cross-platform application developer · Málaga, Spain</p>
 
 ### About me
 
