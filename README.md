@@ -11,11 +11,10 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AMB1572&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" alt="AMB1572's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB1572&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=en" alt="Most used languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AMB1572&theme=tokyonight&hide_border=true&locale=en" alt="Contribution streak" />
+  <a href="https://github.com/TU_USUARIO">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages"/>
+  </a>
 </p>
 
 <!--**AMB1572/AMB1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
