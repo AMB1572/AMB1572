@@ -11,9 +11,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages"/>
+  <a href="https://github.com/AMB1572">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMB1572&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB1572&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages"/>
   </a>
 </p>
 
