@@ -14,24 +14,24 @@
   <tr>
     <td>
       <a href="https://github.com/AMB1572/SendMessage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Deportistas" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=SendMessage" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AMB1572/Proyecto-Avalonia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=REPO2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Proyecto-Avalonia" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/AMB1572/Procesos-Hijo-y-Padre-de-Potencia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=REPO3" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Procesos-Hijo-y-Padre-de-Potencia" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AMB1572/Deportistas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=REPO4" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Deportistas" />
       </a>
     </td>
   </tr>
