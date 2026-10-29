@@ -13,26 +13,18 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/AMB1572/SendMessage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=SendMessage" />
-      </a>
+      <a href="https://github.com/AMB1572/SendMessage"><b>SendMessage</b></a>
     </td>
     <td>
-      <a href="https://github.com/AMB1572/Proyecto-Avalonia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Proyecto-Avalonia" />
-      </a>
+      <a href="https://github.com/AMB1572/Proyecto-Avalonia"><b>Proyecto Avalonia</b></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AMB1572/Procesos-Hijo-y-Padre-de-Potencia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Procesos-Hijo-y-Padre-de-Potencia" />
-      </a>
+      <a href="https://github.com/AMB1572/Procesos-Hijo-y-Padre-de-Potencia"><b>Proceso Hijo y Padre de Potencia</b></a>
     </td>
     <td>
-      <a href="https://github.com/AMB1572/Deportistas">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Deportistas" />
-      </a>
+      <a href="https://github.com/AMB1572/Deportistas"><b>Deportistas</b></a>
     </td>
   </tr>
 </table>
