@@ -8,6 +8,35 @@
 * 🌱 At the moment I'm learning and improving my mobile development skills.
 * 🤝 I'm keen to collaborate on projects where I can learn and contribute.
 
+### 📂 Important repos I made
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/AMB1572/SendMessage">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Deportistas" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AMB1572/Proyecto-Avalonia">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=REPO2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AMB1572/Procesos-Hijo-y-Padre-de-Potencia">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=REPO3" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AMB1572/Deportistas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=REPO4" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### 📊 GitHub Analytics
 
 <p align="center">
