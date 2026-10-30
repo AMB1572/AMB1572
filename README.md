@@ -11,28 +11,20 @@
 ### 📂 Important repos I made
 
 <p align="center">
-  <a href="https://github.com/AMB1572/SendMessage">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=SendMessage&theme=github_dark" />
-  </a>
-  <a href="https://github.com/AMB1572/Proyecto-Avalonia">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Proyecto-Avalonia&theme=github_dark" />
-  </a>
+  <a href="https://github.com/AMB1572/SendMessage"><b>SendMessage</b></a>
+  <a href="https://github.com/AMB1572/Proyecto-Avalonia"><b>Proyecto Avalonia</b></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AMB1572/Procesos-Hijo-y-Padre-de-Potencia">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Procesos-Hijo-y-Padre-de-Potencia&theme=github_dark" />
-  </a>
-  <a href="https://github.com/AMB1572/Deportistas">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Deportistas&theme=github_dark" />
-  </a>
+  <a href="https://github.com/AMB1572/Procesos-Hijo-y-Padre-de-Potencia"><b>Proceso Hijo y Padre de Potencia</b></a>
+  <a href="https://github.com/AMB1572/Deportistas"><b>Deportistas</b></a>
 </p>
 
 ### 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/AMB1572">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMB1572&show_icons=true&theme=algolia&custom_title=My%20GitHub%20Statistics"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMB1572&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB1572&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages"/>
   </a>
 </p>
