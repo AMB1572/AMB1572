@@ -13,10 +13,16 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/AMB1572/SendMessage"><b>SendMessage</b></a>
+      <a href="https://github.com/AMB1572/SendMessage">
+        <b>SendMessage</b>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=SendMessage&theme=github_dark&hide_border=false" />
+      </a>
     </td>
     <td>
-      <a href="https://github.com/AMB1572/Proyecto-Avalonia"><b>Proyecto Avalonia</b></a>
+      <a href="https://github.com/AMB1572/Proyecto-Avalonia">
+        <b>Proyecto Avalonia</b>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AMB1572&repo=Proyecto-Avalonia&theme=github_dark" />
+      </a>
     </td>
   </tr>
   <tr>
