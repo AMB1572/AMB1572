@@ -10,24 +10,28 @@
 
 ### 📂 Important repos I made
 
-<p align="center">
-  <a href="https://github.com/AMB1572/SendMessage"><b>SendMessage</b></a>
-  <a href="https://github.com/AMB1572/Proyecto-Avalonia"><b>Proyecto Avalonia</b></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/AMB1572/Procesos-Hijo-y-Padre-de-Potencia"><b>Proceso Hijo y Padre de Potencia</b></a>
-  <a href="https://github.com/AMB1572/Deportistas"><b>Deportistas</b></a>
-</p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/AMB1572/SendMessage"><b>SendMessage</b></a><br>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/AMB1572/Proyecto-Avalonia"><b>Proyecto Avalonia</b></a><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/AMB1572/Procesos-Hijo-y-Padre-de-Potencia"><b>Proceso Hijo y Padre de Potencia</b></a><br>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/AMB1572/Deportistas"><b>Deportistas</b></a><br>
+      </td>
+    </tr>
+  </table>
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/AMB1572">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMB1572&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMB1572&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages"/>
-  </a>
-</p>
+</div>
 
 <!--**AMB1572/AMB1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
